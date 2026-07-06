@@ -63,4 +63,4 @@ Ashish Reddy
 
 ---
 
-Ready to copy-paste into your README!
+
